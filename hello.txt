@@ -1,3 +1,4 @@
 Hello linux
 this is Ajay 
 Its my first program for git
+its amazing 
